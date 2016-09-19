@@ -1,0 +1,25 @@
+{
+  "name": "quiz-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dracarys1312/quiz-hackathon.git"
+  },
+  "author": "Kuro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dracarys1312/quiz-hackathon/issues"
+  },
+  "homepage": "https://github.com/dracarys1312/quiz-hackathon#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "config": "^1.19.0",
+    "mongoose": "^4.4.11"
+  }
+}

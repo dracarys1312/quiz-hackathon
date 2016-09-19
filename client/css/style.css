@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-size: 14px;
+  font-family: Helvetica;
+}
+
+#content{
+  padding: 10px;
+}
+
+.content{
+  width: 70%;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+h5{
+  font-weight: normal;
+  font-size: 1.7rem;
+}
+
+label{
+  font-weight: normal;
+  margin-right: 40px;
+}
+
+span{
+  font-size: 1.1rem;
+}
+
+header{
+  display: block;
+  width: 100%;
+  padding-bottom: 20px;
+  border-bottom: 1px solid;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+img{
+  display: inline-block;
+}
